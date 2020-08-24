@@ -1,4 +1,4 @@
-package javaStudy.javaEx.oop.staticmember.singleton;
+ package javaStudy.javaEx.oop.staticmember.singleton;
 
 public class SingletonApp {
 
